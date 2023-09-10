@@ -18,7 +18,7 @@ return result;
 end //
 delimiter ;
 
--- проверка
+-- РїСЂРѕРІРµСЂРєР°
 select times(123456);
 
 
